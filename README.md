@@ -10,7 +10,7 @@ Features:
 * Show all missing keys and processed key:value pairs in JSON, YAML, INI format
 * Search for missing keys and input values from stdin (Do not support if template files including 'Actions' or 'Fuctions')
 * Allows to use environment variables
-* Ensure no missing keys
+* Check for missing keys
 
 ## Install
 
